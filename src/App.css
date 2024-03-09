@@ -29,6 +29,11 @@ main{
   align-items: center;
   gap: 40px;
 }
+.icono{
+  padding: 10px;
+  border: 2px solid white;
+  border-radius: 50%;
+}
 .contenedor-formulario{
   display: flex;
   flex-direction: column;
